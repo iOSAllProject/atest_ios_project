@@ -2441,7 +2441,7 @@
 				ORGANIZATIONNAME = "Dead Mac";
 				TargetAttributes = {
 					0E62327D1781BEF90053EC31 = {
-						DevelopmentTeam = 5BP7ZXN793;
+						DevelopmentTeam = EC8459TY9J;
 					};
 				};
 			};
@@ -2930,7 +2930,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Murad Sweiss (6UWMAMHW27)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CandyCart/CandyCart-Prefix.pch";
@@ -2945,8 +2945,8 @@
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = CandyCart;
-				PROVISIONING_PROFILE = "441DCCBD-29B8-482D-A666-0DA9DA74C62F";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "441DCCBD-29B8-482D-A666-0DA9DA74C62F";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "93fafeaa-e84f-433b-8207-a2dd24048b16";
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALID_ARCHS = armv7;
@@ -2958,7 +2958,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Murad Sweiss (8CS8H346VU)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CandyCart/CandyCart-Prefix.pch";
@@ -2972,7 +2972,8 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = CandyCart;
-				PROVISIONING_PROFILE = "79937C59-BBFC-41E5-8847-A3F46479CD7D";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "93fafeaa-e84f-433b-8207-a2dd24048b16";
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALID_ARCHS = armv7;
